@@ -83,6 +83,3 @@ The goal is to explore his **performance trends, strengths, and patterns** using
 - Create **interactive dashboards in Power BI**  
 - Add **more advanced visualizations** (heatmaps, shot maps, cumulative trends)  
 
-
-```bash
-git clone https://github.com/YOUR_USERNAME/BabarAzam_Cricket_Analysis.git
